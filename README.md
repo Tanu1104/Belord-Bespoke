@@ -1,12 +1,43 @@
-# React + Vite
+# Belord Bespoke Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Belord Bespoke is a client-based tailor website developed during my internship using React. The project focuses on creating a premium, elegant, and responsive frontend to showcase bespoke tailoring services, collections, and brand identity.
 
-Currently, two official plugins are available:
+## Tech Stack
+- React
+- JavaScript
+- Vite
+- HTML
+- CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Elegant and modern UI design tailored for a fashion brand
+- Component-based React architecture
+- Structured sections for services, collections, and brand story
+- Reusable and scalable UI components
+- Responsive design across devices
+- Optimized development workflow using Vite
 
-## Expanding the ESLint configuration
+## My Contribution
+- Developed the complete frontend using React
+- Designed and implemented reusable React components
+- Implemented UI logic and state handling
+- Integrated styling to match premium brand aesthetics
+- Ensured responsiveness and cross-device compatibility
+- Translated client requirements into functional UI components
+- Debugged and refined UI based on feedback
+- Collaborated with team members to align with client expectations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Client Context
+- Project developed for a real tailoring client during internship
+- Focused on delivering a professional and brand-consistent frontend
+- Aligned design and functionality with client requirements
+
+## Learnings
+- Building brand-oriented UIs using React
+- Understanding client requirements in real-world projects
+- Improving UI/UX for premium service-based websites
+- Writing clean and maintainable frontend code
+
+## Status
+Client-Based Internship Project – Completed
