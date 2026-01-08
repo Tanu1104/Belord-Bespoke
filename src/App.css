@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-marquee: marquee 20s linear infinite;
+  
+  @keyframes marquee {
+    from { transform: translateX(0%); }
+    to { transform: translateX(-100%); }
+  }
+}
+
+@layer base {
+  body {
+    /* Slightly lighter obsidian shade */
+    background-color: #0f1115; 
+    color: #ffffff;
+    overflow-x: hidden;
+    
+    /* Adjusted Scanline Effect for lighter background */
+    background-image: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.15) 50%), 
+                      linear-gradient(90deg, rgba(34, 211, 238, 0.02), rgba(0, 0, 0, 0), rgba(217, 70, 239, 0.02));
+    background-size: 100% 4px, 3px 100%;
+  }
+}
